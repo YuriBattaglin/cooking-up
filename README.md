@@ -1,4 +1,4 @@
-# cookin-up
+# cooking-up
 
 ## Project Setup
 
